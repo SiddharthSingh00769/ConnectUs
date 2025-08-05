@@ -22,6 +22,7 @@
     "react-router-dom": "^7.7.1",
     "stream": "^0.0.3",
     "stream-chat-react": "^13.3.0",
+    "videochat": "file:..",
     "zustand": "^5.0.7"
   },
   "devDependencies": {
