@@ -46,6 +46,7 @@ const HomePage = () => {
       });
       setOutgoingRequestsIds(outgoingIds);
     }
+
   }, [outgoingFriendReqs]);
 
   return (
